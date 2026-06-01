@@ -133,11 +133,11 @@ I'm passionate about creating exceptional digital experiences and always excited
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/hassammd/">
     <img src="https://img.shields.io/badge/LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mhassamulqayoum@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
